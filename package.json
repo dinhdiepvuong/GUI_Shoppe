@@ -1,0 +1,33 @@
+{
+  "name": "nodejsnew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinhdiepvuong/nodejsdemo1.git"
+  },
+  "keywords": [
+    "nodejsdemo1",
+    "dinhdiepvuongnodejs",
+    "developer",
+    "17mmonth"
+  ],
+  "author": "Dinh Diep Vuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinhdiepvuong/nodejsdemo1/issues"
+  },
+  "homepage": "https://github.com/dinhdiepvuong/nodejsdemo1#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19"
+  }
+}
